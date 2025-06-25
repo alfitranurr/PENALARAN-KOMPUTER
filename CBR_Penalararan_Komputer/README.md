@@ -169,9 +169,6 @@ Jika Anda ingin berkontribusi:
 4. Push ke branch (`git push origin feature/nama-fitur`).
 5. Buat Pull Request.
 
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
 ## Kontak
 Untuk pertanyaan atau dukungan, hubungi:
 - GitHub Issues: [https://github.com/alfitranurr/PENALARAN-KOMPUTER/issues](https://github.com/alfitranurr/PENALARAN-KOMPUTER/issues)
