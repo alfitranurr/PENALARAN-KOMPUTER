@@ -1,6 +1,6 @@
 # CBR_Penalararan_Komputer
 
-Proyek ini adalah implementasi sistem **Case-Based Reasoning (CBR)** untuk menganalisis dan memprediksi putusan perkara pidana khusus korupsi kerugian keuangan negara berdasarkan dokumen hukum dari situs Direktori Mahkamah Agung Indonesia (`https://putusan3.mahkamahagung.go.id/`). Sistem ini mencakup pipeline lengkap mulai dari pengambilan data (scraping), ekstraksi metadata, representasi data, retrieval, prediksi, hingga evaluasi performa model.
+Proyek ini adalah implementasi sistem **Case-Based Reasoning (CBR)** untuk menganalisis dan memprediksi putusan perkara Pidana Khusus Korupsi Kerugian Keuangan Negara berdasarkan dokumen hukum dari situs Direktori Mahkamah Agung Indonesia (`https://putusan3.mahkamahagung.go.id/`). Sistem ini mencakup pipeline lengkap mulai dari pengambilan data (scraping), ekstraksi metadata, representasi data, retrieval, prediksi, hingga evaluasi performa model.
 
 ## Deskripsi
 Proyek ini terdiri dari lima notebook utama:
