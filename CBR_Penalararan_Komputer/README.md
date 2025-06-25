@@ -1,6 +1,3 @@
-Berikut adalah file **README.md** yang telah diperbarui sesuai dengan perubahan yang Anda minta:
-
-```markdown
 # CBR_Penalararan_Komputer
 
 Proyek ini adalah implementasi sistem **Case-Based Reasoning (CBR)** untuk menganalisis dan memprediksi putusan perkara pidana khusus korupsi kerugian keuangan negara berdasarkan dokumen hukum dari situs Direktori Mahkamah Agung Indonesia (`https://putusan3.mahkamahagung.go.id/`). Sistem ini mencakup pipeline lengkap mulai dari pengambilan data (scraping), ekstraksi metadata, representasi data, retrieval, prediksi, hingga evaluasi performa model.
@@ -178,4 +175,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ## Kontak
 Untuk pertanyaan atau dukungan, hubungi:
 - GitHub Issues: [https://github.com/alfitranurr/PENALARAN-KOMPUTER/issues](https://github.com/alfitranurr/PENALARAN-KOMPUTER/issues)
-```
